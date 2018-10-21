@@ -1,6 +1,7 @@
 AIPND/DL_PyTorch-master/F_MNIST_data/*
 AIPND/DL_PyTorch-master/MNIST_data/*
 .idea/*
-*/__pycache__/*
 *.pth
 *.pyc
+AIPND/DL_PyTourch-master/Cat_Dog_data.zip
+__MACOSX
