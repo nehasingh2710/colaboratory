@@ -1,1 +1,3 @@
-AIPND/AI_Programming_with_Python_Files/DL_PyTorch-master/MNIST_data
+AIPND/DL_PyTorch-master/F_MNIST_data/*
+AIPND/DL_PyTorch-master/MNIST_data/*
+.idea/*
