@@ -1,3 +1,4 @@
 AIPND/DL_PyTorch-master/F_MNIST_data/*
 AIPND/DL_PyTorch-master/MNIST_data/*
 .idea/*
+*/__pycache__/*
