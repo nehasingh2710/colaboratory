@@ -5,3 +5,4 @@ AIPND/DL_PyTorch-master/MNIST_data/*
 *.pyc
 AIPND/DL_PyTorch-master/Cat_Dog_data/*
 __MACOSX
+.ipynb_checkpoints/
