@@ -15,6 +15,7 @@ with open('some_file.txt', 'r') as f:  # No need to close the file
 
 print(some_data)
 
+
 # Example
 def create_cast_list(filename):
     cast_list = []
